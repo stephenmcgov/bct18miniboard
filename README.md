@@ -9,6 +9,6 @@ Proposed Changes:
 
 - A calendar showing the exam schedule timetable, for use on the landing page
 
-- Integration of analytics through use of database systems (replace basic hit counter, use open source options eg. matomo)
+- Integration of analytics through use of database systems (replace basic hit counter, eg. matomo)
 
 Have a useful feature in mind? Email us at bct18miniboard@gmail.com!
