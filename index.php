@@ -2,7 +2,6 @@
 <html>
 <head>
 <link rel="stylesheet" href="css/custom.css">
- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <style>
 a:link, a:visited {
 	color: black;
@@ -20,7 +19,7 @@ body{
 </style>
 </head>
 <body>
-<?php require 'php/arts_login.php';?>
+<?php require 'php/arts_login.php';?><!-- call login check on page load to verify authentication -->
 
 <table style="background-color:cadetblue" class="table_container" border="0">
 
