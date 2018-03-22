@@ -1,0 +1,46 @@
+.wrapper
+{
+	background-color: cadetblue;
+}
+
+.link
+{
+	font-size:13px;
+	font-family: "Verdana", cursive, sans-serif;
+	text-decoration: none;
+}
+
+.disclaimer
+{
+	text-align: center;
+}
+
+.it_boy{
+	height: 250px;
+}
+
+td{
+	vertical-align: top;
+}
+
+table.table_container
+{
+	width:100%;
+	
+}
+	
+table.table_nav
+{
+	height:50px;
+}
+	
+table.table_body
+{
+	
+	height: 650px;
+	font-size: 14px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+
+
