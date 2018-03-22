@@ -11,6 +11,6 @@ Proposed Additions:
 
 - Integration of analytics through use of database systems (to replace basic hit counter)
 
-- Improvement to the security of the site and its users through PHP and certs (can get them free if you look around)
+- Improvement to the security of the site and its users through PHP (ssl certs may not be possible on college servers!)
 
 Have a useful feature in mind? Email us at bct18miniboard@gmail.com!
